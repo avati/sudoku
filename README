@@ -1,0 +1,7 @@
+Sudoku solvers in various languages
+
+sudoku.c   - Solver in C
+sudoku.scm - Solver in Scheme (Lisp)
+sudoku.sed - Solver in Sed!
+sudoku.erl - Solver in Erlang
+sudoku.sh  - Solver in Bash (shell)
